@@ -1,10 +1,8 @@
-<img width="1456" height="816" alt="useriteration_rubber_duck_debugging_a_glowing_holographic_decis_b92bb051-44f8-4979-ac9f-6b183a661501" src="https://github.com/user-attachments/assets/34511ade-8381-4e4f-9cb6-09faa5938bbe" />
+<img width="1456" height="816" alt="Treebleshooter - Rubber Duck Debugging Holographic Decision Tree" src="https://github.com/user-attachments/assets/34511ade-8381-4e4f-9cb6-09faa5938bbe" />
 
 # 🎯 Treebleshooter
 
 > *When your rubber duck needs a flowchart*
-
-![Treebleshooter Banner](docs/images/banner.png)
 
 [![Tests](https://github.com/davidarnold/treebleshooter/workflows/Tests/badge.svg)](https://github.com/davidarnold/treebleshooter/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
