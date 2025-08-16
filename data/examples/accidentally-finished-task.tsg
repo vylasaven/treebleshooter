@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Accidental Productivity Emergency",
+    "description": "When you accidentally complete tasks on your Procrastination Station Pro",
+    "author": "Tomorrow Corp Emergency Response",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.378966",
+    "last_modified_date": "2025-08-15T18:41:25.379065",
+    "tags": [
+      "procrastination",
+      "emergency",
+      "productivity-crisis"
+    ],
+    "difficulty_level": "Critical",
+    "estimated_time_minutes": 2
+  },
+  "root_node_id": "f7fcf406-66a0-438e-aadd-1fea15d816d7",
+  "nodes": {
+    "f7fcf406-66a0-438e-aadd-1fea15d816d7": {
+      "node_id": "f7fcf406-66a0-438e-aadd-1fea15d816d7",
+      "question": "EMERGENCY: Have you accidentally been productive?",
+      "description": "This is a critical failure of your Procrastination Station Pro",
+      "help_text": "Don't panic! We can fix this and get you back to procrastinating",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "456cf6e5-9e86-4f40-bc24-94d204ea86c2",
+          "answer_text": "Yes! I finished something! Help!",
+          "next_node_id": "damage-assessment",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "393fdf61-8b6f-4564-b777-c551698b3074",
+          "answer_text": "I think I might have been productive but I'm not sure",
+          "next_node_id": "productivity-check",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "0a2d0800-0957-442d-aa28-1d40d01a2d13",
+          "answer_text": "I almost was productive but caught myself",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Good catch! You've avoided a productivity incident. As a preventive measure, immediately open 17 browser tabs, start a YouTube video about productivity (but don't watch it), and begin reorganizing your desk without finishing. This should reset your procrastination levels to normal."
+        }
+      ]
+    },
+    "damage-assessment": {
+      "node_id": "damage-assessment",
+      "question": "How much did you accidentally accomplish?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "8e41e5e7-60a6-46ba-9a8b-c65d4b5c56c7",
+          "answer_text": "One small task",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Minor productivity breach detected. Immediately start 3 new projects to compensate. Don't finish any of them. Open Netflix but spend 45 minutes choosing what to watch without actually watching anything. Your procrastination levels should stabilize within the hour."
+        },
+        {
+          "answer_id": "fc77196c-ef4f-4780-80b2-1656a25c3fa7",
+          "answer_text": "My entire to-do list",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "CRITICAL FAILURE! Your Procrastination Station Pro has completely malfunctioned. Emergency protocol: 1) Create a new, longer to-do list 2) Alphabetize it 3) Color-code it 4) Research the best to-do list apps for 3 hours 5) Never actually choose one. This should overload your productivity circuits and restore normal procrastination function."
+        },
+        {
+          "answer_id": "d6538574-1b05-4c13-833b-59a0cb8097f7",
+          "answer_text": "I cleaned my entire house",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This is catastrophic productive procrastination - you've procrastinated by doing other productive things! Immediately mess something up. Spill coffee (but don't clean it). Start a jigsaw puzzle (1000+ pieces). Begin learning a new language but only the swear words. Balance must be restored to the procrastination force."
+        }
+      ]
+    },
+    "productivity-check": {
+      "node_id": "productivity-check",
+      "question": "Let's verify if actual productivity occurred",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "24f41df4-ed58-40dc-a83d-beac7ce9050a",
+          "answer_text": "I made a list but didn't do anything on it",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "False alarm! Making lists is actually advanced procrastination, not productivity. You're operating at peak procrastination performance. Celebrate by making another list of ways to celebrate, but don't do any of them."
+        },
+        {
+          "answer_id": "7ada6fcc-de34-41ac-8be2-45e8b4ce84c3",
+          "answer_text": "I organized my files but didn't do actual work",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Perfect! This is productive procrastination - the highest form of the art. You've achieved the appearance of productivity while accomplishing nothing important. Your Procrastination Station Pro is working perfectly. Maybe reorganize those files again, just to be sure."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.382122",
+    "application": "Treebleshooter"
+  }
+}

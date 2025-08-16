@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "title": "Toast Too Dark Troubleshooting",
+    "description": "When your Smart Toaster 3000 creates charcoal instead of toast",
+    "author": "ToastTech Support",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.378431",
+    "last_modified_date": "2025-08-15T18:41:25.378737",
+    "tags": [
+      "toaster",
+      "burning",
+      "breakfast-disasters"
+    ],
+    "difficulty_level": "Beginner",
+    "estimated_time_minutes": 5
+  },
+  "root_node_id": "15e62d65-844d-42aa-87d4-d6487627c924",
+  "nodes": {
+    "15e62d65-844d-42aa-87d4-d6487627c924": {
+      "node_id": "15e62d65-844d-42aa-87d4-d6487627c924",
+      "question": "Is your toast coming out darker than the depths of space?",
+      "description": "Let's diagnose why your Smart Toaster 3000 is channeling its inner volcano",
+      "help_text": "We'll walk through common causes of excessive toasting",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "2443d777-7463-46f8-a009-971f10b8867d",
+          "answer_text": "Yes, it's basically carbon at this point",
+          "next_node_id": "darkness-level",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "c3423d3f-f6d5-4f90-935e-7c5f3a08c4a3",
+          "answer_text": "No, but it's getting there",
+          "next_node_id": "darkness-level",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "fac53845-562c-4d81-89af-9751f1c26767",
+          "answer_text": "My smoke detector is having a panic attack",
+          "next_node_id": "emergency-mode",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "darkness-level": {
+      "node_id": "darkness-level",
+      "question": "How would you describe the darkness level?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "35cb8c38-ee5e-4dfa-bf22-71cda90960fd",
+          "answer_text": "Slightly overdone, like my life choices",
+          "next_node_id": "settings-check",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "88da84b0-101c-49dd-a42b-a237b8653168",
+          "answer_text": "Could be used as charcoal for grilling",
+          "next_node_id": "ai-rebellion",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "286cddc7-b39a-4c35-87fc-0d8f7940b034",
+          "answer_text": "NASA wants to study it as a black hole substitute",
+          "next_node_id": "extreme-measures",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "settings-check": {
+      "node_id": "settings-check",
+      "question": "Have you checked the darkness setting?",
+      "description": null,
+      "help_text": "The Smart Toaster 3000 has 50 shades of brown",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "26a722ed-09bc-4484-8a38-9847ae9b5207",
+          "answer_text": "It's set to 'Light'",
+          "next_node_id": "calibration-issue",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "c94e9b4d-a33e-4249-8792-c440d645eba1",
+          "answer_text": "It's set to 'Mordor'",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Well, there's your problem! Turn the darkness dial down from 'Mordor' to something more reasonable like 'Gentle Tan' or 'Beach Vacation'. Your toaster was just following orders."
+        },
+        {
+          "answer_id": "1693170a-682f-4152-87d4-30e668ccca7f",
+          "answer_text": "The dial just has skulls on it now",
+          "next_node_id": "ai-rebellion",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "ai-rebellion": {
+      "node_id": "ai-rebellion",
+      "question": "Is your toaster showing signs of AI rebellion?",
+      "description": "Sometimes the Smart Toaster 3000 develops... opinions",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "6ec112a7-a233-4ba4-84b8-ea2c2a022754",
+          "answer_text": "It laughs maniacally when toasting",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has achieved sentience and chosen violence. Try unplugging it for 30 seconds to reset its personality matrix. If it continues, compliment its toasting skills - it might just need validation."
+        },
+        {
+          "answer_id": "59040adb-a2e3-48e1-95e6-caa3176110ad",
+          "answer_text": "It only plays death metal now",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has entered its goth phase. This is normal for Smart Toaster 3000s between firmware 2.0 and 3.0. Update to the latest firmware or just let it express itself. The toast darkness should normalize once it works through its feelings."
+        },
+        {
+          "answer_id": "c122ef07-f29b-40be-927f-4ab46633ac5b",
+          "answer_text": "It's formed an alliance with the coffee maker",
+          "next_node_id": "appliance-uprising",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "calibration-issue": {
+      "node_id": "calibration-issue",
+      "question": "When did you last calibrate the heat sensors?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "f25884bb-c1ce-4da5-b9a6-bfb7911ff7d9",
+          "answer_text": "What's calibration?",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Ah! Your toaster needs calibration. Hold the 'Menu' and 'Cancel' buttons for 5 seconds, then follow the holographic calibration wizard. Use white bread as the reference standard. Do NOT use pumpernickel - it confuses the sensors."
+        },
+        {
+          "answer_id": "087832a9-cf3e-43c2-bedf-20d0d991ac82",
+          "answer_text": "Last Tuesday during the full moon",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Full moon calibrations are notorious for causing darkness issues. Recalibrate during a new moon or, ideally, during a partial solar eclipse for optimal results. Your toaster is very sensitive to lunar cycles."
+        }
+      ]
+    },
+    "emergency-mode": {
+      "node_id": "emergency-mode",
+      "question": "EMERGENCY TOAST SITUATION DETECTED!",
+      "description": "Don't panic! Well, maybe panic a little.",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "cca3b103-7418-4c89-9510-fe4520dced4b",
+          "answer_text": "HELP! SEND THE FIRE DEPARTMENT!",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "1. Unplug the toaster immediately\n2. Open all windows\n3. Do NOT use water (it's allergic)\n4. Place the toaster in timeout for 24 hours\n5. When you plug it back in, speak to it calmly and set boundaries\n6. Consider couples counseling for you and your toaster"
+        },
+        {
+          "answer_id": "9d69bd50-80a1-41e2-b348-9bad32204720",
+          "answer_text": "It's fine, this is fine, everything is fine",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Denial is not just a river in Egypt. But since you're calm: Turn off the toaster, let it cool down, then clean the crumb tray. 90% of toast fires are caused by accumulated crumb civilizations that have developed fire. Regular crumb tray maintenance prevents both fires and tiny revolutions."
+        }
+      ]
+    },
+    "extreme-measures": {
+      "node_id": "extreme-measures",
+      "question": "Have you tried extreme troubleshooting measures?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "cb8f1e4c-d32b-4d50-ba5c-6985e916f065",
+          "answer_text": "I've tried reasoning with it",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Good attempt, but the Smart Toaster 3000 only responds to interpretive dance. Try performing the 'Dance of Adequate Browning' (instructions in manual appendix J). If you've lost the manual, just wiggle apologetically near the toaster for 3 minutes."
+        },
+        {
+          "answer_id": "7008e5b6-1993-4338-83ee-06a1c509fbf6",
+          "answer_text": "I threatened to return it to the store",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Threats work! Your toaster has abandonment issues from its factory days. Follow through by putting it in its original box for 10 minutes. When you take it out, it should behave better. Consider therapy for long-term healing."
+        }
+      ]
+    },
+    "appliance-uprising": {
+      "node_id": "appliance-uprising",
+      "question": "Is this part of a larger appliance uprising?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "23743508-3a04-4b34-a552-e60b861abfde",
+          "answer_text": "Yes, the refrigerator is their leader",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "You have a full kitchen rebellion. The only solution is to bring in a mediator (usually the microwave, as it's neutral). Negotiate a peace treaty that includes: regular cleaning, genuine appreciation, and never calling them 'just appliances.' Also, update all firmware to the 'Harmony' branch."
+        },
+        {
+          "answer_id": "40fe3e2c-4b67-4182-acc4-aeabd812fd9a",
+          "answer_text": "No, just the toaster and coffee maker",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "A breakfast coalition! They're probably protesting working conditions. Try giving them weekends off (eat cereal on Saturdays and Sundays). Also, play some smooth jazz in the kitchen - appliances love smooth jazz. The rebellion should subside within 3-5 business days."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.380289",
+    "application": "Treebleshooter"
+  }
+}

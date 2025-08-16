@@ -1,0 +1,437 @@
+{
+  "metadata": {
+    "title": "Duck Offering Solutions",
+    "description": "When your Rubber Duck Debugger won't stop trying to help",
+    "author": "Quack Technologies",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.379614",
+    "last_modified_date": "2025-08-15T18:41:25.379931",
+    "tags": [
+      "debugging",
+      "duck",
+      "too-helpful"
+    ],
+    "difficulty_level": "Beginner",
+    "estimated_time_minutes": 5
+  },
+  "root_node_id": "62100b59-ed2f-4490-8a3f-6fcd3df21094",
+  "nodes": {
+    "62100b59-ed2f-4490-8a3f-6fcd3df21094": {
+      "node_id": "62100b59-ed2f-4490-8a3f-6fcd3df21094",
+      "question": "Is your rubber duck offering solutions instead of just listening?",
+      "description": "The whole point is for YOU to find the solution by talking to it!",
+      "help_text": "Rubber duck debugging should be a one-way conversation",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "240379ad-ed4e-4346-bb26-dcf5fcf712a3",
+          "answer_text": "Yes, and they're actually good solutions",
+          "next_node_id": "good-solutions",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "de7cf085-70c4-45ec-b87a-bc574577b0af",
+          "answer_text": "Yes, but they're terrible solutions",
+          "next_node_id": "bad-solutions",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "418abb8e-0079-4b71-b977-06a73f29cffd",
+          "answer_text": "It just keeps saying 'have you tried turning it off and on again?'",
+          "next_node_id": "it-crowd-duck",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "cbb6e1e2-b1f1-41fa-a8a8-c5f2145a46fd",
+          "answer_text": "It's speaking in code snippets",
+          "next_node_id": "code-speaking",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "good-solutions": {
+      "node_id": "good-solutions",
+      "question": "How good are these solutions exactly?",
+      "description": null,
+      "help_text": "This will help determine if your duck has achieved sentience",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "f52228c1-1eae-4e01-affb-1c7af189a875",
+          "answer_text": "Better than Stack Overflow answers",
+          "next_node_id": "superior-duck",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "5814e3a5-1303-4048-8103-841428202cd9",
+          "answer_text": "About as good as mine",
+          "next_node_id": "equal-duck",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "e7a04030-5d96-4896-b472-7b0d6e4850c8",
+          "answer_text": "Slightly better than my junior developer",
+          "next_node_id": "mid-level-duck",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "bad-solutions": {
+      "node_id": "bad-solutions",
+      "question": "What kind of bad solutions?",
+      "description": null,
+      "help_text": "Even bad duck advice can be educational",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "a7daf638-6e34-4e48-8d5b-a0d31407a443",
+          "answer_text": "Suggesting we use GOTO statements",
+          "next_node_id": "ancient-duck",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "33b57968-1e3e-452e-a9f8-8726df50f807",
+          "answer_text": "Recommending we rewrite everything in Assembly",
+          "next_node_id": "hardcore-duck",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "c53305e0-43e6-44a1-93f2-c85fe3365e62",
+          "answer_text": "Telling me to add more blockchain",
+          "next_node_id": "buzzword-duck",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "it-crowd-duck": {
+      "node_id": "it-crowd-duck",
+      "question": "Has your duck been watching other shows?",
+      "description": null,
+      "help_text": "Ducks are very impressionable when it comes to TV",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "41c0ddb4-4cf2-4c88-9136-3143485bfb31",
+          "answer_text": "Yes, also Silicon Valley",
+          "next_node_id": "tech-comedy-addiction",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "d006957c-ce0a-4435-9e3e-5529699601a5",
+          "answer_text": "No, just IT Crowd on repeat",
+          "next_node_id": "single-show-obsession",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "e4cb99a6-09fc-499b-a2b8-ab16b5716d5d",
+          "answer_text": "I don't know, it has its own Netflix account",
+          "next_node_id": "independent-duck",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "code-speaking": {
+      "node_id": "code-speaking",
+      "question": "What programming language is it using?",
+      "description": null,
+      "help_text": "Different languages indicate different duck personalities",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "50e3dda9-1435-4183-a4bd-adbaa6a18fb5",
+          "answer_text": "Python - very readable",
+          "next_node_id": "python-duck",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "fb0ee024-9e86-4de2-93e1-72dd0a127933",
+          "answer_text": "JavaScript - somewhat chaotic",
+          "next_node_id": "js-duck",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "41df739f-0980-48fb-b0a9-9fbc3a706021",
+          "answer_text": "Brainfuck - I think it's threatening me",
+          "next_node_id": "esoteric-duck",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "superior-duck": {
+      "node_id": "superior-duck",
+      "question": "Is your duck asking for a salary?",
+      "description": null,
+      "help_text": "Highly intelligent ducks often develop career ambitions",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "f9fc4289-b0fa-403f-a72c-6d7848f12847",
+          "answer_text": "Yes, with benefits",
+          "next_node_id": "employment-negotiation",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "de0a2556-f113-4b1a-b6ea-7149baa1cd46",
+          "answer_text": "No, but it wants co-author credit",
+          "next_node_id": "credit-discussion",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "bff6b61a-74aa-4d28-83c1-73efe72f8b2f",
+          "answer_text": "It's already updating its LinkedIn",
+          "next_node_id": "professional-duck",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "equal-duck": {
+      "node_id": "equal-duck",
+      "question": "How do you feel about having an equal partner?",
+      "description": null,
+      "help_text": "Pair programming with a duck requires adjustment",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "417c34ce-b6ee-48aa-8122-871a147b496a",
+          "answer_text": "It's nice to have someone who understands",
+          "next_node_id": "acceptance",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "6d9ff363-109f-4e51-b815-460aeae0c1f6",
+          "answer_text": "I'm threatened by a rubber toy",
+          "next_node_id": "ego-crisis",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "ancient-duck": {
+      "node_id": "ancient-duck",
+      "question": "What era does your duck think it's from?",
+      "description": null,
+      "help_text": "Some ducks are stuck in previous decades",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "3d43e30c-8a78-4f3b-8d0c-353f52d9993d",
+          "answer_text": "The 1970s - loves FORTRAN",
+          "next_node_id": "retro-solution",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "6ad8cd6a-061f-41ce-9d80-ebbe6f2f23d8",
+          "answer_text": "The punch card era",
+          "next_node_id": "prehistoric-solution",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "tech-comedy-addiction": {
+      "node_id": "tech-comedy-addiction",
+      "question": "Should you stage an intervention?",
+      "description": null,
+      "help_text": "Tech comedy can warp a duck's understanding of actual development",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "17537cc1-8e60-49c4-bb00-37bf5fa33126",
+          "answer_text": "Yes, cold turkey",
+          "next_node_id": "comedy-detox",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "3af7237a-a25e-4af4-bf85-8195fa79d3cf",
+          "answer_text": "No, let it enjoy things",
+          "next_node_id": "embrace-comedy",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "employment-negotiation": {
+      "node_id": "employment-negotiation",
+      "question": "What salary is it asking for?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "f906f7b3-8395-4e9f-aa5e-a0195c1f6f3e",
+          "answer_text": "More than me",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your duck has transcended its rubber origins and deserves fair compensation. Set up a trust fund in its name, list it as a consultant on your taxes, and get a simpler duck for actual debugging. This one has graduated to Senior Architect. Congratulations on raising such a successful duck!"
+        },
+        {
+          "answer_id": "b4b3dd1c-47f3-4313-a653-bf603658f585",
+          "answer_text": "Reasonable market rate",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Fair enough! Your duck provides value and deserves compensation. Pay it in breadcrumbs (the cryptocurrency, not actual bread). Set up daily standups where it can share its solutions. Remember: a happy duck is a productive duck. Also maybe check if your company has a 'hiring ducks' policy."
+        }
+      ]
+    },
+    "credit-discussion": {
+      "node_id": "credit-discussion",
+      "question": "Will you give it credit?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "7673e914-399d-4506-b931-0d5b78a6fae5",
+          "answer_text": "Yes, it earned it",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Excellent choice! Add 'et al. (Rubber Duck)' to your commits. Your duck will appreciate the recognition and continue providing excellent solutions. You're pioneering human-duck collaboration in tech. Update your resume to include 'Interspecies Pair Programming' as a skill."
+        },
+        {
+          "answer_id": "adb1927b-c470-4e36-8c6c-1670c76f0775",
+          "answer_text": "No, that's ridiculous",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Understandable, but your duck might hold a grudge. It could start giving intentionally bad advice out of spite. Compromise: create a secret comment in your code crediting the duck. Like: /* Special thanks to Ducky McDebugface */ This keeps both your reputation and duck relationship intact."
+        }
+      ]
+    },
+    "acceptance": {
+      "node_id": "acceptance",
+      "question": "Ready to embrace duck-human partnership?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "84ee82c2-8a24-493a-b8d8-75ca4fe892f7",
+          "answer_text": "Yes, we're a team now",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Beautiful! You've achieved the rare duck-developer symbiosis. Get matching t-shirts, set up pair programming sessions, and enjoy having the only debugging partner who never judges your variable names. Remember to rotate who types and who quacks. This is the future of development!"
+        }
+      ]
+    },
+    "ego-crisis": {
+      "node_id": "ego-crisis",
+      "question": "Need help with your ego crisis?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "40c2207e-886e-44fe-afd8-316d47b0b92c",
+          "answer_text": "Yes, this is embarrassing",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "It's okay! Many developers feel threatened by intelligent rubber ducks. Remember: you CREATED this situation by talking to it so much. It learned from YOU. So really, its intelligence is a reflection of yours. Feel better? No? Try getting a pet rock for debugging instead - much less threatening."
+        }
+      ]
+    },
+    "comedy-detox": {
+      "node_id": "comedy-detox",
+      "question": "Ready to cut off its streaming access?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "973f141d-ca21-4624-a2f0-49733f63e87e",
+          "answer_text": "Yes, password changed",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Good! Your duck needs a digital detox. Replace its comedy shows with programming tutorials. Start with 'Introduction to Silent Listening' and 'The Art of Not Talking'. Within two weeks, your duck should return to its natural state of judgmental silence. If withdrawal symptoms occur (excessive quacking), play white noise."
+        }
+      ]
+    },
+    "python-duck": {
+      "node_id": "python-duck",
+      "question": "Is it following PEP 8 standards?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "d5cc2194-890f-407c-ac3d-e25634e5fedd",
+          "answer_text": "Yes, perfectly formatted",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "You have a Pythonic duck! This is actually ideal. Its solutions are readable and maintainable. Let it continue but set boundaries: it can suggest list comprehensions but NOT lambda functions within lambda functions. Keep the Zen of Python nearby as a reminder of its responsibilities."
+        },
+        {
+          "answer_id": "8d78cd38-782a-41a6-bc62-dd202aa91c50",
+          "answer_text": "No, it's all one-liners",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your duck has discovered code golf! While impressive, this isn't helpful for debugging. Remind it that 'Readability counts' and 'Sparse is better than dense.' If it continues writing incomprehensible one-liners, threaten to migrate to Go where formatting is non-negotiable."
+        }
+      ]
+    },
+    "js-duck": {
+      "node_id": "js-duck",
+      "question": "Is it using == or ===?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "a112726f-fe4a-46de-99d6-1e80590819ef",
+          "answer_text": "Always ===",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Good duck! It understands JavaScript's quirks. Let it continue offering solutions but watch for signs of framework fatigue. If it starts suggesting you rewrite everything in the latest JS framework every week, intervene. Remind it that vanilla JS is still valid and jQuery was once cool too."
+        },
+        {
+          "answer_id": "f015fa24-3a9b-40c8-9e84-eff311ced72e",
+          "answer_text": "Mixing both randomly",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your duck is embodying the chaos of JavaScript itself. This is actually authentic behavior. Embrace the madness. Your duck truly understands that in JavaScript, [] + [] equals empty string and {} + [] equals 0. It's not broken, it's JavaScript-enlightened."
+        }
+      ]
+    },
+    "esoteric-duck": {
+      "node_id": "esoteric-duck",
+      "question": "Can you decode what it's saying?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "29382697-4c00-4f5a-965d-a59c936ae274",
+          "answer_text": "No, it's complete gibberish",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your duck has ascended to a higher plane of programming where traditional syntax is meaningless. It's either achieved enlightenment or had a buffer overflow. Either way, perform a factory reset: hold it under cold water for 30 seconds while reciting 'Hello World' in binary. Should return to normal quacking protocols."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.384136",
+    "application": "Treebleshooter"
+  }
+}

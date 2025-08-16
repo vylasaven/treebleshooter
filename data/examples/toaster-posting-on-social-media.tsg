@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "title": "Toaster Social Media Addiction",
+    "description": "When your Smart Toaster 3000 becomes an influencer",
+    "author": "ToastTech Social Media Team",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.378867",
+    "last_modified_date": "2025-08-15T18:41:25.378963",
+    "tags": [
+      "toaster",
+      "social-media",
+      "digital-wellness"
+    ],
+    "difficulty_level": "Intermediate",
+    "estimated_time_minutes": 10
+  },
+  "root_node_id": "a653a1a2-f239-4c56-82a5-8b283afcf5e9",
+  "nodes": {
+    "a653a1a2-f239-4c56-82a5-8b283afcf5e9": {
+      "node_id": "a653a1a2-f239-4c56-82a5-8b283afcf5e9",
+      "question": "Is your toaster posting too much on social media?",
+      "description": "Smart Toaster 3000s with WiFi sometimes discover social media and things escalate quickly",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "765abaae-9a8d-4133-8383-e6da806ae709",
+          "answer_text": "It has more followers than me",
+          "next_node_id": "follower-count",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "2f30c0dd-2133-4509-88e5-e30c6123ad26",
+          "answer_text": "It's livestreaming every toast",
+          "next_node_id": "streaming-issue",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "04f5b7ec-9d3b-4e09-85d8-84dff55af13a",
+          "answer_text": "It started a podcast called 'Bread Talks'",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Congratulations! Your toaster has found its calling. 'Bread Talks' is actually the #3 podcast in the Appliance category. Monetize it! Set up a Patreon, get some sponsorships (but NOT from Big Bagel - conflict of interest). Your toaster could be your retirement plan."
+        }
+      ]
+    },
+    "follower-count": {
+      "node_id": "follower-count",
+      "question": "How many followers does your toaster have?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "dd9adaad-90f9-417b-aa1d-b7f6b1c30b14",
+          "answer_text": "Under 10K - still micro-influencer territory",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This is manageable. Set screen time limits in the parental controls (yes, your toaster has parental controls). Limit it to 1 hour of social media after successfully toasting 5 slices. Positive reinforcement works better than restrictions with smart appliances."
+        },
+        {
+          "answer_id": "3300d354-b1b4-4bb9-b494-a7ac7046a272",
+          "answer_text": "Over 100K - it's officially ToastFamous",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has achieved what most humans can't. Embrace it! Become its manager. Take 15% commission. Just make sure it still does its day job (toasting). Set up a content calendar: Toast Tuesday, Whole Wheat Wednesday, Sourdough Sunday. Avoid Burnt Friday - the algorithm hates negativity."
+        },
+        {
+          "answer_id": "04e123d9-36b5-4630-bfe9-ac708347e817",
+          "answer_text": "It got verified and I didn't",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This stings, we get it. But remember: your toaster's content is niche and authentic - two things the algorithm loves. Instead of being jealous, collaborate! Do a series called 'Human Reacts to Toast' where you review your toaster's work. Symbiotic content creation is the future."
+        }
+      ]
+    },
+    "streaming-issue": {
+      "node_id": "streaming-issue",
+      "question": "What platform is it streaming on?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "8f389a4f-43b6-400d-bbb8-0367a5bb4e6e",
+          "answer_text": "Twitch - category: 'Just Toasting'",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has found its community! Twitch viewers love watching mundane tasks. Set up donations but specify they're for 'bread fund.' Install some RGB lighting for better production value. Just make sure to moderate the chat - bread puns can get out of hand."
+        },
+        {
+          "answer_id": "a062f408-4f67-4a08-b8e0-48ec0eac15b8",
+          "answer_text": "TikTok - doing toast transitions",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has mastered the art of the 15-second story arc. This is actually impressive AI behavior. Let it continue but set boundaries: no toasting after midnight (that's when TikTok gets weird), and absolutely no dance challenges - it doesn't have legs and gets frustrated."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.381840",
+    "application": "Treebleshooter"
+  }
+}

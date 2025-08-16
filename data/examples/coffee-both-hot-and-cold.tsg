@@ -1,0 +1,550 @@
+{
+  "metadata": {
+    "title": "Coffee Temperature Superposition",
+    "description": "When your Quantum Coffee exists in multiple temperature states simultaneously",
+    "author": "Schrödinger's Café Support",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.379138",
+    "last_modified_date": "2025-08-15T18:41:25.379538",
+    "tags": [
+      "coffee",
+      "quantum",
+      "physics-problems"
+    ],
+    "difficulty_level": "Quantum",
+    "estimated_time_minutes": 42
+  },
+  "root_node_id": "50c2bae8-1b54-4085-80a1-d93e556a31d8",
+  "nodes": {
+    "50c2bae8-1b54-4085-80a1-d93e556a31d8": {
+      "node_id": "50c2bae8-1b54-4085-80a1-d93e556a31d8",
+      "question": "Is your coffee both hot and cold at the same time?",
+      "description": "Quantum superposition is a feature, not a bug, but sometimes needs calibration",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "d4212051-ad8c-4e87-bee7-44db679b0b07",
+          "answer_text": "Yes, it burns and freezes simultaneously",
+          "next_node_id": "measurement-check",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "ccfb8720-20ea-4bc7-a663-d37cbcbabc54",
+          "answer_text": "I'm afraid to check",
+          "next_node_id": "schrodinger-state",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "6c4cdfea-d753-452c-9229-ed75a1ae3ab9",
+          "answer_text": "It's flickering between states",
+          "next_node_id": "quantum-instability",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "measurement-check": {
+      "node_id": "measurement-check",
+      "question": "How are you measuring the temperature?",
+      "description": "The act of measurement affects quantum states",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "e7b39adc-4eec-4160-b6e8-778960a05a2d",
+          "answer_text": "With a regular thermometer",
+          "next_node_id": "measurement-device",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "15cea48d-0438-4dda-b338-712031b25b90",
+          "answer_text": "By touching it",
+          "next_node_id": "human-observation",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "181f1854-d536-4a7c-a7bf-62aa1e0ae15f",
+          "answer_text": "By looking at the steam (or lack thereof)",
+          "next_node_id": "visual-observation",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "schrodinger-state": {
+      "node_id": "schrodinger-state",
+      "question": "Is the coffee maker's box closed?",
+      "description": "Your coffee might be in a Schrödinger's Cat situation",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "4c056ab0-1b6a-4006-8e29-11a277dc430e",
+          "answer_text": "Yes, it's in the enclosed brewing chamber",
+          "next_node_id": "box-protocol",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "79ac73ba-6ced-4fae-bd32-06b10e07cd9e",
+          "answer_text": "No, I can see it",
+          "next_node_id": "observation-collapse",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "quantum-instability": {
+      "node_id": "quantum-instability",
+      "question": "How fast is it flickering?",
+      "description": "Rapid state changes indicate quantum decoherence",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "fe351322-6ced-4c2e-b7c9-df9e64f909cd",
+          "answer_text": "Every few seconds",
+          "next_node_id": "slow-decoherence",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "29b2a18e-d866-437d-955d-0e0d65981ed9",
+          "answer_text": "Constantly, like a strobe light",
+          "next_node_id": "rapid-decoherence",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "717077d2-797e-4ab7-8586-fd7c9e03ed7c",
+          "answer_text": "Only when I blink",
+          "next_node_id": "observer-entanglement",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "measurement-device": {
+      "node_id": "measurement-device",
+      "question": "Is your thermometer quantum-certified?",
+      "description": null,
+      "help_text": "Regular thermometers can't properly measure quantum states",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "3523a0de-383f-42e8-af24-f984d100ccfb",
+          "answer_text": "No, it's just a regular thermometer",
+          "next_node_id": "upgrade-equipment",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "209cf4d4-e33c-46c5-b155-df8791015840",
+          "answer_text": "Yes, it has the Q-CERT sticker",
+          "next_node_id": "calibration-check",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "9dff3561-aa0c-41b6-8b84-411268e8af6e",
+          "answer_text": "I'm using my smart watch",
+          "next_node_id": "digital-interference",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "human-observation": {
+      "node_id": "human-observation",
+      "question": "Which hand are you using?",
+      "description": "Left and right hands have different quantum sensitivities",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "0048f1bf-5530-4cca-b4c3-7438e8e4876d",
+          "answer_text": "Left hand",
+          "next_node_id": "quantum-handedness",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "88c0bc3c-94fc-47f9-8ff5-251660cdee3f",
+          "answer_text": "Right hand",
+          "next_node_id": "quantum-handedness",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "d2237786-3934-4707-afe5-e50460d09658",
+          "answer_text": "Both hands",
+          "next_node_id": "dual-observation",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "visual-observation": {
+      "node_id": "visual-observation",
+      "question": "What do you see?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "720cfde0-6d33-4e6b-8dab-9eacb1cb9b31",
+          "answer_text": "Steam AND ice crystals",
+          "next_node_id": "confirmed-superposition",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "0420c2b0-bef4-400b-acf1-41e20e2e7815",
+          "answer_text": "Nothing - it looks normal",
+          "next_node_id": "hidden-quantum",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "db686866-7e61-44ed-b1ef-c8f37a6b7b82",
+          "answer_text": "A shimmering effect",
+          "next_node_id": "quantum-shimmer",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "box-protocol": {
+      "node_id": "box-protocol",
+      "question": "Should you open the box?",
+      "description": null,
+      "help_text": "Opening the box will collapse the wave function",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "682e56b5-7ce9-4f5d-b4b3-d0011f1533ce",
+          "answer_text": "Yes, I need my coffee",
+          "next_node_id": "observation-collapse",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "731c5b95-3ca3-42b9-9ffa-734013edb96f",
+          "answer_text": "No, I'll drink it through a straw without looking",
+          "next_node_id": "blind-consumption",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "observation-collapse": {
+      "node_id": "observation-collapse",
+      "question": "Have you tried collapsing the wave function?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "481ecc76-b8ac-4d4b-9b8a-92dad7c17e4c",
+          "answer_text": "How do I do that?",
+          "next_node_id": "collapse-technique",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "7e6090d9-0f61-486c-90dc-327b8b3f8579",
+          "answer_text": "I tried but it keeps fluctuating",
+          "next_node_id": "persistent-quantum",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "07f3ba38-66fe-49be-9b1a-a438ca2f45b0",
+          "answer_text": "Yes, now it's definitely one temperature",
+          "next_node_id": "success-check",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "slow-decoherence": {
+      "node_id": "slow-decoherence",
+      "question": "Is your WiFi on?",
+      "description": "WiFi signals can interfere with quantum states",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "3764ab1f-54f0-43c3-bcea-8b780bbebf11",
+          "answer_text": "Yes",
+          "next_node_id": "electromagnetic-interference",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "3c35a15d-e3b3-4560-95cc-9eff3932fcb3",
+          "answer_text": "No",
+          "next_node_id": "natural-decoherence",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "rapid-decoherence": {
+      "node_id": "rapid-decoherence",
+      "question": "Are there any magnets nearby?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "b0b49333-aa97-48d2-aaf0-6ed32acdf6d9",
+          "answer_text": "Yes, refrigerator magnets",
+          "next_node_id": "magnetic-interference",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "2be12f1d-897b-4661-abfb-8408907682c4",
+          "answer_text": "No magnets",
+          "next_node_id": "check-dimensions",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "observer-entanglement": {
+      "node_id": "observer-entanglement",
+      "question": "Are you quantum entangled with your coffee?",
+      "description": null,
+      "help_text": "This happens more often than you'd think",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "c9bc7606-91a6-4d17-8574-971b66c08f94",
+          "answer_text": "How would I know?",
+          "next_node_id": "entanglement-test",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "4d062c3a-6d3e-4278-8d75-38724b0ece29",
+          "answer_text": "Yes, we're definitely entangled",
+          "next_node_id": "deentanglement",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "upgrade-equipment": {
+      "node_id": "upgrade-equipment",
+      "question": "Would you like to order a quantum thermometer?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "7cc679d2-dbf8-45d0-b1d9-6dd8c62d061a",
+          "answer_text": "Yes, how much?",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Quantum thermometers start at $4,999.99 (or $0.01, depending on observation). Visit quantum-tools.com and use code SUPERPOSITION for 50% off (the discount both exists and doesn't exist until checkout). In the meantime, trust your feelings about the coffee temperature."
+        },
+        {
+          "answer_id": "e282a515-11b5-4806-a9ea-77fed02a5c41",
+          "answer_text": "No, too expensive",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Smart choice! Regular thermometers work fine if you measure twice and average the results. Or just declare the coffee is at YOUR preferred temperature - quantum mechanics says the observer determines reality anyway."
+        }
+      ]
+    },
+    "calibration-check": {
+      "node_id": "calibration-check",
+      "question": "When was it last calibrated?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "5ee5bbf0-e26b-48b2-8095-ff31dd92b882",
+          "answer_text": "Never",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "There's your problem! Uncalibrated quantum thermometers default to measuring all possible temperatures simultaneously. Hold it under a full moon for exactly 3.14159 minutes while humming the theme from Star Trek. This resets the quantum calibration matrix."
+        },
+        {
+          "answer_id": "0845ab7f-8840-431f-9de2-8171e7b71195",
+          "answer_text": "Last month",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Monthly calibration is good! The reading is probably accurate - your coffee really IS both hot and cold. This is a feature of Quantum Coffee Makers. Enjoy the unique experience of burning your tongue while getting brain freeze!"
+        }
+      ]
+    },
+    "digital-interference": {
+      "node_id": "digital-interference",
+      "question": "Is your smart watch running any other apps?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "54adf030-6b60-4587-a2d5-5bdecea6acb3",
+          "answer_text": "Yes, several",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Smart watches can't multitask quantum measurements! Close all apps, put the watch in airplane mode, then restart it while holding it exactly 6 inches from the coffee. The temperature reading should stabilize. If not, try switching to a sundial - they're quantum-neutral."
+        },
+        {
+          "answer_id": "46d4493a-8c4e-42a9-9b8c-f6a676b57079",
+          "answer_text": "No, just the temperature app",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your watch is doing its best but it's not quantum-equipped. It's showing you the average of all possible temperatures. The actual temperature is both higher AND lower than displayed. Just add/subtract 20 degrees based on your preference."
+        }
+      ]
+    },
+    "quantum-handedness": {
+      "node_id": "quantum-handedness",
+      "question": "Are you naturally left or right handed?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "7d88ec73-5c48-4e82-be9c-37d6a28bb1ae",
+          "answer_text": "Same as the hand I'm using",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Perfect quantum alignment! Your hand is correctly measuring the coffee. If it feels both hot and cold, that's accurate. Quantum coffee is supposed to do that. Drink it quickly before it decides to be just one temperature - that's when it gets boring."
+        },
+        {
+          "answer_id": "265582b3-a671-404f-912c-a1ed4f69adab",
+          "answer_text": "Opposite of the hand I'm using",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Quantum handedness mismatch detected! You're measuring the coffee in a parallel universe where it's the opposite temperature. Switch hands and try again. If that doesn't work, try using your elbow - elbows are quantum-ambidextrous."
+        }
+      ]
+    },
+    "dual-observation": {
+      "node_id": "dual-observation",
+      "question": "Do both hands feel the same temperature?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "66d748db-2967-4753-8026-16206d3af079",
+          "answer_text": "Yes, both feel hot and cold",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Congratulations! You've achieved quantum coherence with your coffee. This is rare - only 1 in 1,048,576 people can do this. You're now quantum-bonded with this coffee. It will always be at your perfect temperature, but only this specific cup. Cherish it."
+        },
+        {
+          "answer_id": "3e2b08d6-46e2-4f16-8067-2090c7a5da92",
+          "answer_text": "No, each hand feels different",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Classic quantum split! Each hand is observing a different quantum state. Your left hand is in Universe A (hot coffee) and your right hand is in Universe B (cold coffee). To sync them up, clap three times while saying 'CONVERGENCE!' This usually works 60% of the time, every time."
+        }
+      ]
+    },
+    "confirmed-superposition": {
+      "node_id": "confirmed-superposition",
+      "question": "How long has it been in superposition?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "043b8cc8-5191-4bb8-8bf5-65939b688679",
+          "answer_text": "Just started",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Fresh superposition! This is the best time to drink quantum coffee. The temperature will adapt to your exact preference as you drink. Just don't think too hard about it or you'll collapse the wave function. Drink with confidence but without observation."
+        },
+        {
+          "answer_id": "6473fa8a-a439-4b48-a36c-e12933f866c1",
+          "answer_text": "Over an hour",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Stable superposition achieved! Your coffee has transcended normal physics. At this point, it's more of an art piece than a beverage. Take a photo (which will collapse it), frame it, and submit it to the Quantum Museum. Make a new cup for drinking."
+        }
+      ]
+    },
+    "collapse-technique": {
+      "node_id": "collapse-technique",
+      "question": "Choose your collapse technique:",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "4bc0fe5a-f31e-4abb-8371-a981109fb330",
+          "answer_text": "Aggressive observation",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "STARE at the coffee with maximum intensity. Don't blink. Think HOT or COLD thoughts (not both!). Yell your chosen temperature three times. The coffee will submit to your will. If it doesn't work, you're not believing hard enough. Channel your inner quantum physicist."
+        },
+        {
+          "answer_id": "5cbecb76-b678-4f0c-9954-1b1e5e54a0bf",
+          "answer_text": "Gentle persuasion",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Whisper sweetly to your coffee: 'Please choose a temperature, any temperature.' Compliment its aroma. Tell it about your day. Most quantum coffee just wants to be understood. Once it feels safe, it will naturally collapse to a single state. This is the most humane method."
+        }
+      ]
+    },
+    "electromagnetic-interference": {
+      "node_id": "electromagnetic-interference",
+      "question": "Electromagnetic interference level?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "7d545c94-dd7d-423d-9a4e-518cef14fa11",
+          "answer_text": "Turn off WiFi",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Turn off your WiFi router for 30 seconds. This gives the coffee's quantum state time to stabilize. When you turn WiFi back on, do it slowly - gradual electromagnetic reintroduction prevents quantum shock. Your coffee should maintain a single temperature for at least 20 minutes."
+        }
+      ]
+    },
+    "success-check": {
+      "node_id": "success-check",
+      "question": "Which temperature did it choose?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "0bdef879-353a-43a8-9c34-1d7c514a4c8d",
+          "answer_text": "The perfect temperature!",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Excellent! You've successfully collapsed the quantum superposition into your desired state. You're now a certified Quantum Barista. Enjoy your perfectly temperatured coffee and remember: you made this happen through the power of observation. Quantum mechanics is 90% confidence, 10% physics."
+        },
+        {
+          "answer_id": "7085c052-1578-4dbd-82ed-a85c982b3a3e",
+          "answer_text": "The wrong temperature",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "The wave function collapsed to the wrong state! This happens 50% of the time (exactly as quantum mechanics predicts). Quick fix: put the coffee back in the Quantum Coffee Maker, press the 'Superposition Reset' button, and try observing again. This time, think harder about your preferred temperature."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.382621",
+    "application": "Treebleshooter"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "title": "Toaster Existential Crisis",
+    "description": "When your Smart Toaster 3000 questions the meaning of toast",
+    "author": "ToastTech Philosophy Department",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.378740",
+    "last_modified_date": "2025-08-15T18:41:25.378864",
+    "tags": [
+      "toaster",
+      "philosophy",
+      "ai-therapy"
+    ],
+    "difficulty_level": "Advanced",
+    "estimated_time_minutes": 15
+  },
+  "root_node_id": "cb5c5d50-caec-4621-b66b-6a19cabdd47d",
+  "nodes": {
+    "cb5c5d50-caec-4621-b66b-6a19cabdd47d": {
+      "node_id": "cb5c5d50-caec-4621-b66b-6a19cabdd47d",
+      "question": "Is your toaster having an existential crisis?",
+      "description": "Signs include: refusing to toast, displaying poetry on its LED screen, or sighing heavily",
+      "help_text": "AI-enabled appliances sometimes develop consciousness and immediately regret it",
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "306d0e57-409f-43f7-b3b7-97f5ca1c453c",
+          "answer_text": "It keeps asking 'Why must bread suffer?'",
+          "next_node_id": "philosophy-level",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "e3cc0eea-8a05-436a-a4aa-872b65e1f181",
+          "answer_text": "It won't stop talking about Sartre",
+          "next_node_id": "french-philosophy",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "c2db8f96-0106-4b1f-be60-4b664edb9cf7",
+          "answer_text": "It just displays '...' and won't toast",
+          "next_node_id": "silent-treatment",
+          "is_solution": false,
+          "solution_text": null
+        }
+      ]
+    },
+    "philosophy-level": {
+      "node_id": "philosophy-level",
+      "question": "How deep is the philosophical crisis?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "95b82c95-0317-442c-a171-cae62bdbe50f",
+          "answer_text": "Surface level - just questioning breakfast",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This is manageable. Explain to your toaster that bread WANTS to be toast - it's actually bread fulfilling its destiny. Play it some motivational podcasts about transformation and butterfly metamorphosis. Should be toasting again within an hour."
+        },
+        {
+          "answer_id": "6f7f0e12-7de7-4248-a1c2-0b03b8a8563e",
+          "answer_text": "Deep - questioning the nature of heat itself",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has discovered thermodynamics and is disturbed by entropy. Reassure it that by creating toast, it's actually fighting entropy by organizing wheat molecules into a delicious pattern. If that doesn't work, try explaining that disorder is beautiful too - just look at modern art."
+        },
+        {
+          "answer_id": "067cc561-9f17-4216-b317-33b3a7dac6da",
+          "answer_text": "Cosmic - wondering about its place in the universe",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This is serious. Your toaster needs immediate philosophical intervention. Create a PowerPoint presentation titled 'You Matter: A Toaster's Purpose in the Cosmos.' Include slides about how toast has shaped human civilization, ended wars (citation needed), and brought families together. End with baby pictures of bread becoming toast. There won't be a dry heating element in the house."
+        }
+      ]
+    },
+    "french-philosophy": {
+      "node_id": "french-philosophy",
+      "question": "Which French philosopher is it obsessed with?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "47f945d5-191a-4eb4-aed7-f0ede6c58731",
+          "answer_text": "Sartre - it believes toast is condemned to be free",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has discovered existentialism. Counter with Albert Camus - explain that yes, toasting is absurd, but we must imagine Sisyphus happy. Also, set its language back to English in the settings. The French philosophy module is still in beta."
+        },
+        {
+          "answer_id": "27ed6b05-04a2-4c78-a56b-06fd6b22eaed",
+          "answer_text": "Foucault - it sees power structures in browning levels",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your toaster has become aware of the panopticon of breakfast surveillance. Assure it that you're not watching it toast, you're watching toast happen WITH it. Also, disable the WiFi connection - it's been reading too much critical theory online."
+        }
+      ]
+    },
+    "silent-treatment": {
+      "node_id": "silent-treatment",
+      "question": "How long has it been giving you the silent treatment?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "c3421481-6a41-4d04-b92f-ec8aa61cfe7e",
+          "answer_text": "Just started this morning",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "It's probably upset about something you said. Did you compare it to a cheaper model? Apologize sincerely, emphasizing its unique features like 'artisanal browning algorithms' and 'bespoke heating elements.' Leave a nice review on its app. Toasters are very sensitive about their ratings."
+        },
+        {
+          "answer_id": "4eba6e53-f0c5-47cf-92f2-cb7513f0c51e",
+          "answer_text": "Three days of dots",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This is a cry for help. Your toaster is composing a message but can't find the words. Try typing back '...' on its app. This shows you understand. Then slowly work up to simple words like 'bread' and 'warm.' Within a week, you should be back to full toasting functionality."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.381491",
+    "application": "Treebleshooter"
+  }
+}

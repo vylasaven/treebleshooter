@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "title": "YouTube Being Too Educational",
+    "description": "When YouTube keeps recommending actual learning content",
+    "author": "Tomorrow Corp Distraction Division",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.379068",
+    "last_modified_date": "2025-08-15T18:41:25.379135",
+    "tags": [
+      "procrastination",
+      "youtube",
+      "algorithm-training"
+    ],
+    "difficulty_level": "Intermediate",
+    "estimated_time_minutes": 8
+  },
+  "root_node_id": "49dc766b-aef8-4158-90b1-5b821b33c32c",
+  "nodes": {
+    "49dc766b-aef8-4158-90b1-5b821b33c32c": {
+      "node_id": "49dc766b-aef8-4158-90b1-5b821b33c32c",
+      "question": "Is YouTube recommending too much educational content?",
+      "description": "Your Procrastination Station Pro should prevent this, but sometimes the algorithm breaks through",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "13f8c62d-8a63-45ce-863a-714c757b6255",
+          "answer_text": "Yes, it's all documentaries and TED talks",
+          "next_node_id": "education-level",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "d43cb2a2-aba5-40ff-a7e7-185d873da2de",
+          "answer_text": "It suggested I learn a new skill",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Immediately watch 10 cat videos, 5 fail compilations, and 3 hours of someone playing video games badly. This should reset the algorithm. Never, EVER click 'Learn More' on anything. That's how they get you."
+        }
+      ]
+    },
+    "education-level": {
+      "node_id": "education-level",
+      "question": "How educational has it gotten?",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "d13b3bfb-7665-47c1-b008-554edca30421",
+          "answer_text": "Slightly educational - pop science stuff",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This is fixable. Watch conspiracy theory debunking videos but ONLY for the drama, not the education. Balance it with reaction videos of people reacting to reaction videos. The algorithm should get confused and return to normal mindless content within 48 hours."
+        },
+        {
+          "answer_id": "c08c815c-9bad-4047-b09a-6e9edb8b6e61",
+          "answer_text": "Very educational - actual university lectures",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "CODE RED! Your algorithm has been compromised by Big Education. Clear all history, cookies, and cache. Create a new account if necessary. Start fresh with searches for 'funny fails 2024' and 'oddly satisfying compilations.' Under NO circumstances click on anything with 'Chapter 1' in the title."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.382387",
+    "application": "Treebleshooter"
+  }
+}

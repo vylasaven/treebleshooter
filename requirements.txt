@@ -1,0 +1,20 @@
+# Treebleshooter Requirements
+# Python 3.11+ required
+
+# Core GUI Framework
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+
+# Development Tools
+black==24.4.2          # Code formatting
+pytest==8.2.2          # Testing framework
+mypy==1.10.0           # Type checking
+pylint==3.2.3          # Code linting
+
+# Utilities
+Pillow==10.3.0         # Image processing for icons
+jsonschema==4.22.0     # JSON validation for guide files
+
+# Optional but recommended
+qtawesome==1.3.1       # Icon library for better UI

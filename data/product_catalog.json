@@ -1,0 +1,161 @@
+{
+  "products": {
+    "smart-toaster-3000": {
+      "product_id": "smart-toaster-3000",
+      "product_name": "Smart Toaster 3000",
+      "description": "The AI-powered toaster that knows you better than you know yourself",
+      "manufacturer": "ToastTech Industries",
+      "version": "3.0.1",
+      "icon_name": null,
+      "problem_categories": {
+        "toast-problems": {
+          "category_id": "toast-problems",
+          "category_name": "Toast Malfunctions",
+          "description": "When your toast isn't toasting quite right",
+          "icon_name": null,
+          "guide_ids": [
+            "toast-too-dark",
+            "toast-too-light",
+            "toast-uneven"
+          ]
+        },
+        "ai-problems": {
+          "category_id": "ai-problems",
+          "category_name": "AI Personality Issues",
+          "description": "When your toaster gets too smart for its own good",
+          "icon_name": null,
+          "guide_ids": [
+            "toaster-too-sarcastic",
+            "toaster-existential-crisis"
+          ]
+        },
+        "connectivity": {
+          "category_id": "connectivity",
+          "category_name": "WiFi & Bluetooth Woes",
+          "description": "Connection problems in the modern toast era",
+          "icon_name": null,
+          "guide_ids": [
+            "toaster-wont-connect",
+            "toaster-posting-on-social-media"
+          ]
+        }
+      }
+    },
+    "procrastination-station": {
+      "product_id": "procrastination-station",
+      "product_name": "Procrastination Station Pro",
+      "description": "The ultimate productivity tool that helps you avoid being productive",
+      "manufacturer": "Tomorrow Corp",
+      "version": "2.0.never",
+      "icon_name": null,
+      "problem_categories": {
+        "too-productive": {
+          "category_id": "too-productive",
+          "category_name": "Accidental Productivity",
+          "description": "Emergency troubleshooting for when you accidentally get work done",
+          "icon_name": null,
+          "guide_ids": [
+            "accidentally-finished-task",
+            "inbox-zero-panic"
+          ]
+        },
+        "distraction-failures": {
+          "category_id": "distraction-failures",
+          "category_name": "Distraction Failures",
+          "description": "When your procrastination tools aren't procrastinating properly",
+          "icon_name": null,
+          "guide_ids": [
+            "youtube-recommendations-too-educational",
+            "social-media-not-loading"
+          ]
+        }
+      }
+    },
+    "quantum-coffee": {
+      "product_id": "quantum-coffee",
+      "product_name": "Quantum Coffee Maker",
+      "description": "Brews coffee in multiple dimensions simultaneously",
+      "manufacturer": "Schrödinger's Café",
+      "version": "4.2.0",
+      "icon_name": null,
+      "problem_categories": {
+        "quantum-issues": {
+          "category_id": "quantum-issues",
+          "category_name": "Quantum Anomalies",
+          "description": "When your coffee exists in too many states at once",
+          "icon_name": null,
+          "guide_ids": [
+            "coffee-both-hot-and-cold",
+            "coffee-exists-doesnt-exist"
+          ]
+        },
+        "temporal-problems": {
+          "category_id": "temporal-problems",
+          "category_name": "Time-Related Issues",
+          "description": "Coffee arriving before or after you need it",
+          "icon_name": null,
+          "guide_ids": [
+            "coffee-from-yesterday",
+            "coffee-from-tomorrow"
+          ]
+        }
+      }
+    },
+    "motivational-mirror": {
+      "product_id": "motivational-mirror",
+      "product_name": "Motivational Mirror™",
+      "description": "The smart mirror that compliments you (sometimes too much)",
+      "manufacturer": "Self-Esteem Systems",
+      "version": "1.3.7",
+      "icon_name": null,
+      "problem_categories": {
+        "compliment-issues": {
+          "category_id": "compliment-issues",
+          "category_name": "Compliment Calibration",
+          "description": "When the encouragement level needs adjustment",
+          "icon_name": null,
+          "guide_ids": [
+            "mirror-too-honest",
+            "mirror-too-enthusiastic"
+          ]
+        },
+        "reflection-problems": {
+          "category_id": "reflection-problems",
+          "category_name": "Reflection Issues",
+          "description": "Technical problems with showing your reflection",
+          "icon_name": null,
+          "guide_ids": [
+            "reflection-too-attractive",
+            "reflection-someone-else"
+          ]
+        }
+      }
+    },
+    "rubber-duck": {
+      "product_id": "rubber-duck",
+      "product_name": "Rubber Duck Debugger",
+      "description": "The classic programmer's companion, now with AI",
+      "manufacturer": "Quack Technologies",
+      "version": "1.0.1",
+      "icon_name": null,
+      "problem_categories": {
+        "listening-problems": {
+          "category_id": "listening-problems",
+          "category_name": "Active Listening Issues",
+          "description": "When your duck isn't being supportive enough",
+          "icon_name": null,
+          "guide_ids": [
+            "duck-falling-asleep",
+            "duck-offering-solutions"
+          ]
+        }
+      }
+    }
+  },
+  "last_updated": "2025-08-15T18:41:25.385187",
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.385227",
+    "application": "Treebleshooter"
+  }
+}

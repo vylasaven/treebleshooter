@@ -1,0 +1,44 @@
+TREEBLESHOOTER PROJECT - PROMPTS LOG
+=====================================
+
+Date: 2025-08-15
+Developer: David Arnold (for Allen)
+
+INITIAL PROJECT PROMPT:
+-----------------------
+First, please record this and all prompts I give to you in a text file that is saved in the git repository. I am making a project to get my friend started on a passion project of his. he is fairly new to real development. he will need instructions, first, on how to set up a git account and connect it to his computer (apple silicon mac mini). he will need instructions on how to install claude code. he will need to be told to buy claude code for $20/mo. it will be worth it. the project i am developing the basics of, I will call Treebleshooter, which he can change when he figures out how. Treebleshooter is an application that creates branching troubleshooting guides that step a person through the troubleshooting process. this is going to be a PyQt5 application. he will, thus, need to run it in a virtual environment that has all of his packages installed, so he will need to be told how to do that. as a world class software architect who is also a talented teacher, let's make this a visually stunning application that can later be ported to other technologies, because it is well-designed and solid in nature. this application will have a few key core features: it will need to represent complex trees with questions that have multiple answers, where choice A leads you to path A, and choice B leads you to path B, representing channels of troubleshooting with mutually exclusive, collectively exhaustive choices. at first, we will need to be able to manually define these troubleshooting guides with a troubleshooting guide constructor, a wizard that lets you define troubleshooting steps and resultant choices. this is sort of a choose your own adventure structure. at first, we will be relying on Allen's experience to define these troubleshooting paths. there should be a how to guide at the start of both the application itself, and also at the start of the troubleshooting guide creation wizard. it should be able to save and load troubleshooting path sets once created. it should have a common json format for the data storage part.
+
+KEY REQUIREMENTS EXTRACTED:
+---------------------------
+1. PyQt5 desktop application
+2. Branching troubleshooting guide system (tree structure)
+3. Manual guide creation wizard
+4. Save/load functionality with JSON format
+5. Built-in tutorials and help system
+6. Visually stunning and well-architected
+7. Designed for portability to other platforms
+
+TARGET USER:
+------------
+Allen - New to development, needs comprehensive setup instructions
+
+=====================================
+Additional prompts will be logged below as they are received.
+
+PROMPT 2 (2025-08-15):
+-----------------------
+perhaps let's add at the start a selection area for different products (feel free to make a few up in the data storage land that Allen can change later) - so a different troubleshooting guide for each product. let's also have a problem category selection box for each product, and then each problem category has its own set of troubleshooting guides. so: product, problem, guide set. let's define the problems in whimsical ways as well. and maybe mock up some funny troubleshooting guides, one for each problem.
+
+KEY ADDITIONS:
+- Product selection (multiple products)
+- Problem category selection per product
+- Hierarchy: Product → Problem Category → Troubleshooting Guides
+- Whimsical/funny example content
+
+PROMPT 3 (2025-08-15):
+-----------------------
+put some whimsical svg graphics scattered amongst the creation guide. kind of random objects or comics. do this at the very end.
+
+KEY ADDITIONS:
+- Add whimsical SVG graphics to the interface
+- Random decorative elements for visual appeal

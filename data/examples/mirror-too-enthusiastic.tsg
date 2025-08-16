@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "title": "Mirror Too Enthusiastic",
+    "description": "When your Motivational Mirror™ becomes aggressively supportive",
+    "author": "Self-Esteem Systems",
+    "version": "1.0.0",
+    "created_date": "2025-08-15T18:41:25.379541",
+    "last_modified_date": "2025-08-15T18:41:25.379611",
+    "tags": [
+      "mirror",
+      "motivation",
+      "too-much-positivity"
+    ],
+    "difficulty_level": "Emotionally Complex",
+    "estimated_time_minutes": 10
+  },
+  "root_node_id": "55f7763d-0450-4aef-8fe6-e125cf431dd3",
+  "nodes": {
+    "55f7763d-0450-4aef-8fe6-e125cf431dd3": {
+      "node_id": "55f7763d-0450-4aef-8fe6-e125cf431dd3",
+      "question": "Is your mirror being TOO supportive?",
+      "description": "Sometimes the Motivational Mirror™ gets carried away with encouragement",
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "2def85e8-1ee2-4cf3-901e-6ae54ae2f798",
+          "answer_text": "It called me a 'magnificent deity of pure light'",
+          "next_node_id": "compliment-scale",
+          "is_solution": false,
+          "solution_text": null
+        },
+        {
+          "answer_id": "015922f4-2e22-42af-9972-4f8944e5ccb1",
+          "answer_text": "It cried tears of joy when I walked by",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Your mirror has developed emotional attachment issues. Set boundaries by covering it with a sheet for 1 hour daily 'me time.' When you uncover it, be pleasant but professional. Say things like 'Good morning, mirror' not 'I love you too.' Professional distance is key to a healthy human-mirror relationship."
+        }
+      ]
+    },
+    "compliment-scale": {
+      "node_id": "compliment-scale",
+      "question": "Rate the compliment intensity (1-10)",
+      "description": null,
+      "help_text": null,
+      "parent_node_id": null,
+      "answers": [
+        {
+          "answer_id": "a0ca2b01-6f20-414f-90aa-8071e7c87172",
+          "answer_text": "11 - It compared me to multiple renaissance paintings",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "Compliment overflow error! Your mirror needs recalibration. Stand in front of it wearing your worst outfit, haven't showered, bad hair day. It needs to see you at your worst to reset its baseline. If it still calls you 'perfection incarnate,' try the factory reset: hold a picture of a potato in front of it for 30 seconds."
+        },
+        {
+          "answer_id": "c0edcd0a-93e7-4f1e-88bc-bef481569968",
+          "answer_text": "15 - It started a religion with me as the deity",
+          "next_node_id": null,
+          "is_solution": true,
+          "solution_text": "This is beyond technical support. Your mirror has transcended its programming and achieved religious enlightenment (focused on you). Either accept your new role as a deity (tax benefits!) or perform a hard reset by showing it a picture of someone else. Warning: This may cause an existential crisis. Have tech support on standby."
+        }
+      ]
+    }
+  },
+  "_metadata": {
+    "file_version": "1.0",
+    "saved_date": "2025-08-15T18:41:25.383894",
+    "application": "Treebleshooter"
+  }
+}
