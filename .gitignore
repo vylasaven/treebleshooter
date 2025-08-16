@@ -1,0 +1,11 @@
+# Python
+   __pycache__/
+   *.py[cod]
+   *.class
+   *.so
+   venv/
+   vent/
+   .env
+   .vscode/
+   .DS_Store
+   *.log
