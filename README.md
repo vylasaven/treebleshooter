@@ -1,3 +1,5 @@
+<img width="1456" height="816" alt="useriteration_rubber_duck_debugging_a_glowing_holographic_decis_b92bb051-44f8-4979-ac9f-6b183a661501" src="https://github.com/user-attachments/assets/34511ade-8381-4e4f-9cb6-09faa5938bbe" />
+
 # 🎯 Treebleshooter
 
 > *When your rubber duck needs a flowchart*
@@ -165,6 +167,7 @@ MIT License - see [LICENSE](LICENSE) file. Basically: do whatever you want with 
 > "My toaster just asked me about the meaning of bread" - Actual Treebleshooter User
 
 ---
+
 
 **Made with 💙 and a healthy dose of debugging frustration**
 
